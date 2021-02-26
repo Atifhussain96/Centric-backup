@@ -1,0 +1,195 @@
+@media only screen and (min-width: 1200px){
+    .container {
+        max-width: 1300px;
+    }
+}
+@media (max-width: 992px){
+    .header-new .container-fluid,.header-new .col-md-12{
+        padding: 0;
+    }
+    .header-new .navbar-light .navbar-nav li.nav-item {
+        margin-left: 0;
+        padding: 10px 15px;
+    }
+    .m-buy-btn {
+        display: block;
+        float: right;
+        position: absolute;
+        right: 90px;
+        width: 90px;
+        height: 39px;
+        top: 12px;
+    }
+    .feature-new ul li:first-child {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .feature-new ul {
+        display: block;
+        overflow: hidden;
+    }
+    .world-left, .double-protection, .world-right{
+        width: 100%;
+    }
+    .side-view {
+        margin-top: 30px;
+    }
+    .arrows{
+        margin-bottom: 40px;
+    }
+    .world-left{
+        padding-left: 20px;
+    }
+    .mask-protection ul{
+        display: block;
+    }
+    .available-at ul {
+        display: block;
+    }
+    .available-at ul li img {
+        width: 170px;
+        object-fit: scale-down;
+    }
+    .available-at ul li {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .follow .instaa {
+        margin-bottom: 50px;
+    }
+    .w-100 {
+        width: auto !important;
+    }
+    .itstime {
+        margin-left: 3rem!important;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .styleviromasks .carousel-caption h1, .product-list .carousel-caption h1 {
+        margin-bottom: 0px !important;
+        font-family: Gothambook;
+        font-size: 20px;
+        padding: 0;
+        margin: 0;
+    }
+    .styleviromasks .buy-now {
+        background-color: #CC1236;
+        color: #fff;
+        font-size: 10px;
+        font-family: Gothambook;
+        border: 0;
+        padding: 3px 6px;
+        cursor: pointer;
+        border-radius: 8px;
+    }
+    .styleviromasks .carousel-caption a, .product-list .carousel-caption a {
+        margin: 0 5px;
+        margin-top: 0px;
+        display: inline-block;
+        margin-bottom: 0px;
+        font-family: Gothambook;
+    }
+    .styleviromasks .carousel-caption, .product-list .carousel-caption {
+        margin-bottom: auto;
+        left: 2%;
+        color: rgb(77, 75, 75);
+        text-align: left;
+        margin-left: 0px;
+    }
+    .feature-new {
+        position: absolute;
+        bottom: inherit;
+        background: rgba(255,255,255,0.8);
+        width: 100%;
+    }
+    
+    .mask-protection ul li {
+        padding: 0 3px 0 0;
+        text-align: center;
+        font-family: "gothambook";
+    }
+    .mask-protection {
+        background: #EBEBEB;
+        padding: 20px 0px;
+    }
+    .doublelayer {
+        margin: 6px 0;
+    }
+    .product-list {
+        padding: 0px 0;
+    }
+    .available-at {
+        padding: 0;
+    }
+    .mask-protection ul li {
+        text-align: center;
+        font-family: "gothambook";
+        display: inline-block;
+        width: 48%;
+        margin-bottom: 30px;
+    }
+    .follow {
+        margin: 10px 20px;
+    }
+    footer.new-footer {
+        background: #3C3C3B;
+        padding: 38px 0;
+        padding-bottom: 0;
+    }
+    .leftmargin {
+        padding: 1px 25px;
+    }
+    .products {
+        text-align: center;
+        margin-left: 15px; margin-top: 80px;
+    }
+    .layer h5:before {
+        content: '';
+        position: absolute;
+        background: #CC1236;
+        width: 280px;
+        height: 2px;
+        bottom: -2px;
+        left: 0;
+        right: 0;
+        margin-bottom: auto;
+    }
+    .mask-protection p {
+        font-family: "gothambook";
+        padding-top: 30px;
+        margin: 0;
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
+
+@media (max-width: 767px){
+    .header-new .container-fluid,.header-new .col-md-12{
+        padding: 0;
+    }
+    .header-new .navbar-light .navbar-nav li.nav-item {
+        margin-left: 0;
+        padding: 10px 15px;
+    }
+    .m-buy-btn {
+        display: block;
+        float: right;
+        position: absolute;
+        right: 90px;
+        width: 90px;
+        height: 39px;
+        top: 12px;
+    }
+    .feature-new ul li:first-child {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .feature-new ul {
+        display: block;
+        overflow: hidden;
+    }
+    .feature-new ul li img {
+        width: 160px;
+        height: auto;
+    }
+}

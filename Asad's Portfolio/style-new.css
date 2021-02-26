@@ -1,0 +1,112 @@
+.servicebox h3{ 
+	text-transform: capitalize !important;
+}
+.hexagone {
+    background: #787777;
+    color: #fff;
+}
+img.main-down {
+    width: 20px;
+    padding-top: 12px;
+    margin-right: 7px;
+}
+
+
+.new-style img {
+    width: 40%;
+    padding: 10px 0;
+}
+.footer-logo {
+    width: 50px!important;
+    margin: 8px;
+}
+
+.our-profile .modal-header{
+    background-image: url(modal-bg.png);
+    height: 130px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.modal-body img.asad-profile {
+    width: 168px;
+    height: 168px;
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    top: -80px;
+    left: 0;
+    right: 0;
+}
+.img-inner img {
+    width: 120px;
+}
+.img-inner {
+    text-align: center;
+    padding-top: 30px;
+}
+.img-inner span{
+    display: block;
+}
+.follow-me ul {
+    list-style: none;
+    padding: 0;
+}
+
+.follow-me ul li {
+    display: inline-block;
+}
+
+.follow-me ul li img {
+    width: 70px;
+    height: 20px;
+}
+.follow-me {
+    text-align: center;
+    margin-top: 60px;
+}
+.follow-me h5 {
+    font-size: 14px;
+    font-weight: 700;
+}
+.modal-body {
+    padding: 30px;
+    background-color: #fff;
+    margin-top: -2px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.modal-content{
+    background-color: transparent;
+}
+.back-to-top {
+    font-size: 26px;
+    width: 40px;
+    height: 40px;
+}
+li.social-iconss {
+    background: #febf34;
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 30px;
+}
+li.social-iconss img {
+    height: 15px;
+}
+img.padd-top {
+    margin-top: -5px;
+}
+span.phone {
+    margin-top: 5px;
+}
+.back-to-top.fixedstop img {
+    width: 15px;
+    height: 40px;
+}
+body{
+    padding-right: 0 !important;
+}
+.back-to-top.visible img {
+    width: 15px;
+    height: 40px;
+}

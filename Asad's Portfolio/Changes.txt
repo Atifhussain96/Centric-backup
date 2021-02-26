@@ -1,0 +1,32 @@
+hide navigation bar from top when scroll down except the "LOGO" and "HIRE ME"
+Remove Pricing tab from page and from navigation.
+Place all the icons from original Site
+when click on hire me CTA, (show my contact details)
+Put CV download link on a CTA (download cv)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://pixlogix.com/themes/html/mybio/images/slide-02.jpg
+https://pixlogix.com/themes/html/mybio/images/slide-03.jpg

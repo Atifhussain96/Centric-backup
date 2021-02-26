@@ -1,0 +1,574 @@
+.header-new .navbar-light .navbar-nav .nav-link.active{
+    color: #CC1236;
+}
+.header-new .navbar-light .navbar-nav .nav-link:hover {
+    color: #CC1236;
+}
+.header-new .navbar-light .navbar-nav .nav-link{
+    color: #747474;
+    font-family: "gothambook";
+}
+.header-new .navbar-light .navbar-nav li.nav-item{
+    margin-left: 20px;
+}
+.header-new .navbar-light .navbar-nav li.nav-item.dropdown.flag, .header-new .navbar-light .navbar-nav li.nav-item.dropdown.flag .nav-link{
+    text-transform: uppercase;
+    color: #CC1236;
+}
+.header-new .navbar-light .navbar-nav li.nav-item.dropdown.flag .dropdown-menu .dropdown-item{
+    padding-left: 10px;
+}
+.header-new .navbar-light .navbar-nav li.nav-item.dropdown.flag .dropdown-menu .dropdown-item img{
+    padding-right: 10px;
+}
+.header-new {
+    background: #fff;
+    padding: 10px 0;
+}
+.m-buy-btn{
+    display: none;
+}
+.feature-new ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.feature-new ul li{
+    display: inline-block;
+    color: #000000;
+    font-family: 'Gotham-Medium';
+    font-size: 18px;
+    line-height: 24px;
+}
+.feature-new ul li img {
+    width: 185px;
+    height: 100px;
+    object-fit: contain;
+}
+.world-left {
+    padding-left: 40px;
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 30px;
+    padding-right: 40px;
+}
+.world-right {
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+.double-protection {
+    width: 25%;
+    display: block;
+    margin: 0 0 0 auto;
+}
+
+.double-protection h6 {
+    color: #CC1236;
+    font-size: 13px;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-family: 'Gotham-Medium';
+}
+
+.double-protection span {
+    display: block;
+    font-size: 13px;
+    line-height: 18px;
+    font-family: 'Gotham-Medium';
+}
+.side-view p {
+    font-family: "gothambook";
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    color: #3C3C3B;
+}
+
+.side-view {
+    margin-top: 10px;
+}
+.arrows {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.arrows span {
+    font-family: "gothambook";
+    padding: 0 20px;
+    font-size: 18px;
+    line-height: 24px;
+}
+.mask-protection {
+    background: #EBEBEB;
+    padding: 100px 0px;
+}
+.mask-protection ul {
+    display: flex;
+    margin: 0;
+}
+
+.mask-protection ul li img {
+    background: #fff;
+    padding: 20px;
+    width: 78px;
+    height: 78px;
+    object-fit: contain;
+    border-radius: 50px;
+}
+
+.mask-protection ul li span {
+    display: block;
+    margin-top: 25px;
+    font-size: 13px;
+    line-height: 18px;
+}
+.mask-protection ul li {
+    padding: 0 130px 0 0;
+    text-align: center;
+    font-family: "gothambook";
+}
+
+.mask-protection ul li:last-child {
+    padding: 0;
+}
+.mask-protection p {
+    font-family: "gothambook";
+    padding-top: 100px;
+    margin: 0;
+    font-size: 12px;
+    line-height: 18px;
+}
+.available-at ul {
+    display: flex;
+    margin: 0;
+}
+
+.available-at ul li img {
+    width: 210px;
+    height: 90px;
+    object-fit: none;
+}
+.available-at {
+    padding: 100px 0;
+}
+.available-at h2 {
+    font-family: 'Gotham-Medium';
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+    position: relative;
+    margin-bottom: 80px;
+}
+.available-at h2 span {
+    color: #CC1236;
+    font-family: 'gothamBold';
+}
+
+.available-at h2:after {content: '';position: absolute;background: #CC1236;width: 220px;height: 2px;bottom: -5px;left: 0;margin: 0 auto;text-align: center;right: 0;}
+
+
+.follow-us {
+    background: #3C3C3B;
+    padding: 5px 0;
+}
+
+.follow-us ul {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+}
+.follow-us ul li{
+    color: #fff;
+    font-size: 29px;
+    line-height: 38px;
+    font-family: "gothambook";
+}
+.follow-us ul li img {
+    width: 30px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.follow-us ul li a {
+    padding-right: 15px;
+}
+.follow-us ul li:first-child {
+    padding-right: 25px;
+}
+
+
+/* Sulman css */
+*{margin: 0px; padding: 0px;}
+
+.itstime{
+    margin-left: 3rem!important; width: 100%;
+}
+.styleviromasks .carousel-caption, .product-list .carousel-caption {
+	 margin-bottom: 160px; left: 10%; color: rgb(77, 75, 75); text-align: left;  margin-left: 0px
+}
+.styleviromasks .carousel-caption p , .product-list .carousel-caption p{
+             margin-bottom: 0; font-family: Gothambook;
+}
+.styleviromasks .carousel-caption h1, .product-list .carousel-caption h1{
+     margin-bottom: 20px !important; font-family: Gothambook;
+}
+.styleviromasks .carousel-caption h5, .product-list .carousel-caption h5{
+        color: #CC1236; margin-bottom: 0; font-family: Gothambook;
+}
+.styleviromasks .carousel-caption a , .product-list .carousel-caption a{
+    margin: 0 10px; margin-left: 0; margin-top: 22px;  display: inline-block;  margin-bottom: 20px; font-family: Gothambook;
+}
+.styleviromasks .buy-now {
+    background-color: #CC1236; color: #fff; font-size: 18px;font-family: Gothambook;
+    border: 0; padding: 10px 30px; cursor: pointer; border-radius: 8px;
+}
+
+/* end first slider */
+
+.products{
+    text-align: center;
+}
+.products h4{
+    position: relative; margin: 40px 0px; font-family: Gothambook;
+}
+.products h4:before {
+    content: '';
+    position: absolute;
+    background: #CC1236;
+    width: 332px;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+.card{
+    border: none !important;
+}
+.card-body{
+    text-align: center;
+}
+.product-list .card-body a{
+    background-color: #CC1236; color: #fff; font-size: 18px;font-family: Gothambook;
+border: 0; padding: 5px 10px; cursor: pointer; border-radius: 25px; 
+display: inline-block;margin-top: 20px ;
+}
+.leftmargin{
+    padding: 0 100px;
+}
+.red{
+    color: #CC1236; font-family: Gothambook;
+}
+.product-list .card-body p{
+    margin-bottom: 0 !important; font-family: Gothambook;
+    font-size: 20px;
+}
+.product-list .card-body p small{
+    font-size: 18px;
+}
+/* end secound slider */
+
+.doublelayer{
+    margin: 80px 0;
+}
+.doublelayer h5{
+    font-family: Gothambook; margin-bottom: 15px;
+}
+.doublelayer p{
+    font-family: Gothambook;
+}
+.filter img{
+    margin-left: 50px;
+}
+.layer h5{
+    position: relative; 
+}
+.layer h5:before {
+    content: '';
+    position: absolute;
+    background: #CC1236;
+    width: 290px;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    right: 0; 
+    margin-bottom: auto;
+}
+.filter h5{
+    position: relative; 
+}
+.filter h5:before {
+    content: '';
+    position: absolute;
+    background: #CC1236;
+    width: 290px;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    right: 0; 
+    margin-bottom: auto;
+}
+/* start insta */
+
+.follow{
+    margin: 50px 20px; 
+}
+.instaa a img{
+    position: relative;
+}
+.icoon a img{
+    position: absolute; top: 10px; right: 40px;
+}
+/* media Query */
+
+@media (max-width: 992px){
+    .carousel-caption h5{
+        color: #CC1236; margin-bottom: 0; font-size: 15px; font-family: Gothambook;
+}
+    .carousel-caption {
+         margin-bottom: 0px; left: 0%; color: rgb(77, 75, 75); text-align: left;  margin-left: 0px
+    }
+    .carousel-caption p{
+        margin-bottom: 0; font-family: Gothambook;
+}
+.carousel-caption h1{
+     font-size: 30px; font-family: Gothambook;
+}
+.carousel-caption a{
+margin: 0 0px; margin-left: 0; font-family: Gothambook;
+}
+.carousel-caption img{
+    height: 20px;
+    }
+.buy-now {
+background-color: #CC1236; color: #fff; font-size: 8px;font-family: Gothambook;
+border: 0; padding: 4px 8px; cursor: pointer; border-radius: 8px; margin-bottom: 1px;
+}
+/* secound slider */
+.leftmargin{
+    margin-left: 15px;
+}
+.products h4{
+   font-size: 15px; position: relative; margin: 10px 0px; font-family: Gothambook;
+}
+.products h4:before {
+    content: '';
+    position: absolute;
+    background: #CC1236;
+    width: 200px;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+}
+@media (max-width: 767px){
+    
+    .carousel-caption h5{
+        padding-top: 0 !important;  color: #CC1236;  margin-bottom: 0 !important; font-size: 12px; font-family: Gothambook;
+}
+    .carousel-caption {
+        margin-bottom: 0px; left: 0%; color: rgb(77, 75, 75); text-align: left;  margin-left: 0px
+    }
+    .carousel-caption p{
+        margin-bottom: 0; font-family: Gothambook; padding-top: 0 !important;
+}
+.carousel-caption h1{
+     font-size: 20px; font-family: Gothambook; padding-top: 0 !important; margin-bottom: 0 !important; 
+}
+.carousel-caption a{
+margin: 0 0px; margin-left: 0; font-family: Gothambook;
+}
+.carousel-caption img{
+    height: 20px;
+    }
+.buy-now {
+background-color: #CC1236; color: #fff; font-size: 8px;font-family: Gothambook;
+border: 0; padding: 4px 8px; cursor: pointer; border-radius: 8px; margin-bottom: 1px;
+}
+}
+
+
+.feature-new {
+    position: absolute;
+    bottom: 0;
+    background: rgba(255,255,255,0.8);
+    width: 100%;
+}
+.styleviromasks {
+    position: relative;
+}
+.product-list .carousel-control-prev {
+    left: -4%;
+}
+.new-footer ul li {
+    display: inline-block;
+    padding-right: 20px;
+    color: #fff;
+}
+
+.new-footer ul li:last-child {
+    padding: 0;
+}
+
+footer.new-footer {
+    background: #3C3C3B;
+    padding: 50px 0;
+    padding-bottom: 0;
+}
+.new-footer ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.bdr-btom {
+    border-bottom: 1px solid #565656;
+    margin-bottom: 20px;
+}
+.new-footer ul.for-block li ul li {
+    display: block;
+}
+.footer-botom {
+    border-top: 1px solid #565656;
+    width: 100%;
+    margin-top: 20px;
+    padding: 40px 15px;
+}
+footer.new-footer ul.img li img {
+    width: 20px;
+    height: 15px;
+    object-fit: contain;
+}
+footer.new-footer ul.img li {
+    padding-right: 10px;
+}
+.footer-botom ul li:first-child {
+    font-weight: bold;
+}
+.product-list {
+    padding: 100px 0;
+}
+.product-list .card {
+    padding: 0 60px;
+}
+
+
+/* Rotate css */
+.threesixty-image-rotate {
+    background: #FFFFFF;
+}
+
+.threesixty-image-rotate .loading-spinner {
+    display: block;
+    position: absolute;
+    z-index: 10000;
+    background: #FFFFFF;
+    opacity: 0.5;
+}
+
+.threesixty-image-rotate .loading-spinner:after {
+    display: block;
+    background-image: url("/images/icons/loading.gif");
+    background-size: contain;
+    content: '';
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100001;
+}
+
+.threesixty-image-rotate .images-display:hover {
+    cursor: grab;
+}
+
+.threesixty-image-rotate .images-display .images-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.threesixty-image-rotate .images-display .images-list .images-display {
+    display: none;
+}
+
+.threesixty-image-rotate .images-display .images-list .images-display img {
+    width: 100%;
+    height: auto;
+}
+
+.active {
+    display: block !important;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar {
+    width: 130px;
+    margin: auto;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar div {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin: 1px;
+    background-size: contain;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar div:hover {
+    cursor: pointer;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar .navigation-bar-next {
+    background-image: url("/images/icons/next.png");
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar .navigation-bar-previous {
+    background-image: url("/images/icons/previous.png");
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar .navigation-bar-play {
+    background-image: url("/images/icons/play.png");
+}
+
+.navigation-bar-stop {
+    background-image: url("/images/icons/stop.png") !important;
+}
+
+.threesixty-image-rotate .navigation-bar-wrapper .navigation-bar .navigation-bar-resize {
+    background-image: url("/images/icons/large-size.png");
+}
+
+.navigation-bar-resize-small-icon {
+    background-image: url("/images/icons/small-size.png") !important;
+}
+
+@media screen and (max-width: 991px) {
+    .active {
+        display: block !important;
+    }
+
+    .threesixty-image-rotate .navigation-bar-wrapper .navigation-bar {
+        width: 100px;
+        margin: auto;
+    }
+
+    .threesixty-image-rotate .navigation-bar-wrapper .navigation-bar .navigation-bar-resize {
+        display: none;
+    }
+}
+
